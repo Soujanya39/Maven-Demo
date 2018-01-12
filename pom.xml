@@ -7,7 +7,7 @@
   <dependencies> 
    <dependency>
     <groupId>junit</groupId>
-    <artifactId>junit</artifactId>
+    <artifactId>Maven-jenkins-example1</artifactId>
     <version>4.12</version>
     <scope>test</scope>
    </dependency>
